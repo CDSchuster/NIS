@@ -1,0 +1,5 @@
+##fileformat=VCFv4.0
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+19	17872495	.	T	A	.	.	.
+19	17872596	.	G	C	.	.	.
+

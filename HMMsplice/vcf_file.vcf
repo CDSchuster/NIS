@@ -1,0 +1,60 @@
+##fileformat=VCFv4.0
+##contig=<ID=1,length=249250621>
+##contig=<ID=2,length=243199373>
+##contig=<ID=3,length=198022430>
+##contig=<ID=4,length=191154276>
+##contig=<ID=5,length=180915260>
+##contig=<ID=6,length=171115067>
+##contig=<ID=7,length=159138663>
+##contig=<ID=8,length=146364022>
+##contig=<ID=9,length=141213431>
+##contig=<ID=10,length=135534747>
+##contig=<ID=11,length=135006516>
+##contig=<ID=12,length=133851895>
+##contig=<ID=13,length=115169878>
+##contig=<ID=14,length=107349540>
+##contig=<ID=15,length=102531392>
+##contig=<ID=16,length=90354753>
+##contig=<ID=17,length=81195210>
+##contig=<ID=18,length=78077248>
+##contig=<ID=chr19,length=58617616>
+##contig=<ID=20,length=63025520>
+##contig=<ID=21,length=48129895>
+##contig=<ID=22,length=51304566>
+##contig=<ID=X,length=155270560>
+##contig=<ID=Y,length=59373566>
+##contig=<ID=MT,length=16569>
+
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr19	17872266	.	C	T	.	.	.
+chr19	17872371	.	G	A	.	.	.
+chr19	17872495	.	T	A	.	.	.
+chr19	17872596	.	G	C	.	.	.
+chr19	17874151	.	G	A	.	.	.
+chr19	17874537	.	TG	T	.	.	.
+chr19	17875980	.	A	G	.	.	.
+chr19	17877773	.	G	T	.	.	.
+chr19	17877823	.	C	G	.	.	.
+chr19	17877833	.	T	A	.	.	.
+chr19	17877840	.	C	A	.	.	.
+chr19	17877982	.	GGTCGGC	G	.	.	.
+chr19	17880862	.	C	A	.	.	.
+chr19	17878082	.	G	A	.	.	.
+chr19	17880886	.	G	A	.	.	.
+chr19	17880937	.	T	G	.	.	.
+chr19	17881961	.	A	C	.	.	.
+chr19	17882007	.	A	T	.	.	.
+chr19	17882027	.	C	T	.	.	.
+chr19	17882058	.	T	G	.	.	.
+chr19	17882063	.	A	T	.	.	.
+chr19	17882160	.	G	A	.	.	.
+chr19	17883752	.	GGCCTGCAACACACCG	G	.	.	.
+chr19	17883764	.	A	C	.	.	.
+chr19	17888350	.	C	T	.	.	.
+chr19	17888397	.	C	G	.	.	.
+chr19	17888432	.	G	A	.	.	.
+chr19	17888445	.	C	A	.	.	.
+chr19	17890913	.	C	T	.	.	.
+chr19	17890916	.	G	A	.	.	.
+chr19	17893851	.	C	T	.	.	.
+chr19	17893860	.	C	T	.	.	.
